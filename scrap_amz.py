@@ -6,5 +6,5 @@ response=requests.get(url)
 print(response.status_code)
 
 
-# soup=BeautifulSoup(" ")
-# print(soup.prettify())
+soup=BeautifulSoup(" ")
+print(soup.prettify())
